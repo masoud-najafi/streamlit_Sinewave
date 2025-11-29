@@ -1,5 +1,6 @@
 # streamlit_Sinewave READEME.md
 
+can be accessed on the web via : https://appsinewave-wht9nx7pch8gg4okmzuo8h.streamlit.app/
 # Wave Simulation Demo Project
 
 This is a simple demo project showing how to create both wxPython desktop and Streamlit web versions that share the same core logic.
