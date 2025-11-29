@@ -1,14 +1,9 @@
-# streamlit_Sinewave
-A wxpython prject that runs either localy with WxPython or with streamlit deplayed on web
+# streamlit_Sinewave READEME.md
 
-
-# ============================================================================
-# File: README.md
-# ============================================================================
-"""
 # Wave Simulation Demo Project
 
 This is a simple demo project showing how to create both wxPython desktop and Streamlit web versions that share the same core logic.
+A wxpython prject that runs either localy with WxPython or with streamlit deplayed on web
 
 ## Setup
 
